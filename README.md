@@ -3,6 +3,7 @@
 ## Overview
 
 This PowerShell script automates the installation of Autodesk software by checking if the specified process ("autodesk downloader") is running and whether the setup executable file exists. If the conditions are met, the script will run the setup executable in quiet mode (`-q`).
+https://help.autodesk.com/view/INSTALL_LICENSE/ENU/?guid=ODIS_silent_install
 
 ## Prerequisites
 
